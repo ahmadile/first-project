@@ -1,5 +1,5 @@
 // vite.config.js
 export default {
     // config options
-    base:"/first-annif-code/",
+    base:"/FIRST-ANNIF-PROJET/",
   }
